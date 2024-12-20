@@ -1,5 +1,6 @@
+#Creating class to using OOP style 
 class Student:
-    def __init__(self, student_id, name, dob):
+    def __init__(self, student_id, name, dob): #Attribute the class have
         self.student_id = student_id
         self.name = name
         self.dob = dob

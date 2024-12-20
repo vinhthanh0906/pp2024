@@ -4,6 +4,7 @@ from data import students, courses
 
 
 
+#Choose a number match to the function you want to use
 def main():
     while True:
         print("\n--- Student Mark Management ---")
